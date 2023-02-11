@@ -56,4 +56,4 @@ stackoverflow.com
 
 ## Author
 
-- Frontend Mentor - [@ks5ks](https://www.frontendmentor.io/profile/kimballsumney)
+- Frontend Mentor - [@ks5ks](https://www.frontendmentor.io/profile/ks5ks)

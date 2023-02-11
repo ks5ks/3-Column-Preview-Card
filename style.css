@@ -85,7 +85,8 @@ body {
   border: none;
   border-radius: 10rem 10rem 10rem 10rem;
   padding: 0.5rem 2rem 0.5rem 2rem;
-  background-color: var(--btn-color);
+  /* background-color: var(--btn-color); */
+  background-color: var(--text-color);
 }
 
 .btn-learn:hover {
