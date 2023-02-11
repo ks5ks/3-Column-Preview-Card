@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/ks5ks/3-Column-Preview-Card.git)
+- Live Site URL: (https://ks5ks-3-column-preview-card.netlify.app)
 
 ## My process
 
@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I spent a lot of time adjusting font size and padding to match the design. Using relative positioning for the problems might have eleminated that issue.
 
 ### Continued development
 
@@ -56,4 +56,4 @@ stackoverflow.com
 
 ## Author
 
-- Frontend Mentor - [@kimballsumney](https://www.frontendmentor.io/profile/kimballsumney)
+- Frontend Mentor - [@ks5ks](https://www.frontendmentor.io/profile/kimballsumney)
